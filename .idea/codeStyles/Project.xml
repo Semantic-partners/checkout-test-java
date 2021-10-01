@@ -1,0 +1,11 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="RIGHT_MARGIN" value="0" />
+    <MarkdownNavigatorCodeStyleSettings>
+      <option name="RIGHT_MARGIN" value="72" />
+    </MarkdownNavigatorCodeStyleSettings>
+    <TurtleCodeStyleSettings>
+      <option name="WRAP_OBJECTS" value="0" />
+    </TurtleCodeStyleSettings>
+  </code_scheme>
+</component>
